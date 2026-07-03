@@ -1,7 +1,7 @@
 <h1 align="center">Rachel Purnima</h1>
 
 <h3 align="center">
-Lead Consultant – Data Analytics 
+Lead Consultant – Data Analytics
 </h3>
 
 <p align="center">
@@ -52,20 +52,20 @@ Informatica | SSIS | DataStage | Cognos | MicroStrategy
 
 ## Featured Projects
 
-### 🤖 ML Advisor - RAG Hybrid Search System
-RAG application combining retrieval and AI-powered responses.
+### 🤖 Intelligent ML Advisor – Hybrid RAG & AI Knowledge Routing Platform
+AI-powered advisor combining RAG, Hybrid Retrieval, and Real-Time Web Search using intelligent routing to improve answer quality and reduce hallucinations.
 
-### 🚀 GenAI Multi Assistant
-Multi-agent Generative AI assistant using modern LLM frameworks.
+### 🕸️ AI Data Pipeline Impact Analyzer – Graph RAG Platform
+Enterprise AI solution combining Traditional RAG and Knowledge Graph RAG to analyze data lineage, dependencies, and downstream impact.
 
-### 📧 AI Powered Newsletter Automation using n8n
-End-to-end AI workflow automation and content generation.
+### 📧 AI-Powered Newsletter Automation Platform
+End-to-end AI workflow using Slack, LLMs, Gmail, and n8n to automate enterprise newsletter creation and distribution.
 
-### 📊 Retail Store Analytics Dashboard
-Business Intelligence solution for retail sales analytics.
+### 🧠 GenAI Multi-Assistant Platform
+Modular AI platform featuring specialized assistants for SQL generation, content creation, interview preparation, document processing, and productivity workflows.
 
-### 💰 Retail Price Monitoring
-Automated retail competitor intelligence solution.
+### 🎵 Spotify Architecture Assistant – RAG Knowledge Discovery Platform
+AI-powered knowledge assistant using LangChain, FAISS, and OpenAI to enable natural language querying across architecture documents with source-backed responses.
 
 ---
 
@@ -87,6 +87,6 @@ Automated retail competitor intelligence solution.
 
 ## Connect With Me
 
-LinkedIn: (add your LinkedIn URL tomorrow)
+LinkedIn: (add your LinkedIn URL)
 
 GitHub: https://github.com/Rachelsjp
