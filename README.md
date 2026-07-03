@@ -1,6 +1,6 @@
 # Hi, I'm Rachel Purnima 👋
 
-Lead Consultant – Data Analytics & AI
+Lead Consultant – Data Analytics
 
 18+ years of experience in Data Analytics, Business Intelligence,
 Data Warehousing, Data Engineering, and Generative AI.
