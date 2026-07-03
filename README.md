@@ -1,11 +1,21 @@
-# Hi, I'm Rachel Purnima 👋
+<h1 align="center">Rachel Purnima</h1>
 
-Lead Consultant – Data Analytics
+<h3 align="center">
+Lead Consultant – Data Analytics 
+</h3>
 
-18+ years of experience in Data Analytics, Business Intelligence,
-Data Warehousing, Data Engineering, and Generative AI.
+<p align="center">
+Data Analytics • Business Intelligence • Data Engineering • Generative AI • AI Product Management
+</p>
+
+---
+
+## About Me
+
+18+ years of experience delivering data-driven solutions across Data Analytics, Business Intelligence, Data Warehousing, and Data Engineering.
 
 Currently expanding expertise in:
+
 - Generative AI
 - AI Agents
 - AI Product Management
@@ -20,7 +30,7 @@ Currently expanding expertise in:
 
 📈 Business Intelligence
 
-🏗 Data Warehousing
+🏗️ Data Warehousing
 
 ⚙️ Data Engineering
 
@@ -42,20 +52,20 @@ Informatica | SSIS | DataStage | Cognos | MicroStrategy
 
 ## Featured Projects
 
-### ML Advisor - RAG Hybrid Search System
+### 🤖 ML Advisor - RAG Hybrid Search System
 RAG application combining retrieval and AI-powered responses.
 
-### GenAI Multi Assistant
-Multi-agent Generative AI assistant built using modern LLM frameworks.
+### 🚀 GenAI Multi Assistant
+Multi-agent Generative AI assistant using modern LLM frameworks.
 
-### AI Powered Newsletter Automation using n8n
-End-to-end AI automation workflow for content generation and distribution.
+### 📧 AI Powered Newsletter Automation using n8n
+End-to-end AI workflow automation and content generation.
 
-### Retail Store Analytics Dashboard
-Business Intelligence solution for retail sales and performance analytics.
+### 📊 Retail Store Analytics Dashboard
+Business Intelligence solution for retail sales analytics.
 
-### Retail Price Monitoring using Playwright
-Automated competitor price intelligence and analytics solution.
+### 💰 Retail Price Monitoring
+Automated retail competitor intelligence solution.
 
 ---
 
@@ -63,7 +73,7 @@ Automated competitor price intelligence and analytics solution.
 
 🏆 IBM Generative & Agentic AI Consultant
 
-🏆 AI Product Management - Duke University
+🏆 AI Product Management – Duke University
 
 🏆 Professional Scrum Product Owner I
 
@@ -77,8 +87,6 @@ Automated competitor price intelligence and analytics solution.
 
 ## Connect With Me
 
-LinkedIn:
-(Add LinkedIn URL)
+LinkedIn: (add your LinkedIn URL tomorrow)
 
-GitHub:
-https://github.com/Rachelsjp
+GitHub: https://github.com/Rachelsjp
