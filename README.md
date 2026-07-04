@@ -1,4 +1,4 @@
-<h1 align="center">Rachel Purnima</h1>
+<h1 align="center">Rachel Purnima Johnpeter</h1>
 
 <h3 align="center">
 Lead Consultant – Data Analytics
