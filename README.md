@@ -44,9 +44,9 @@ Currently expanding expertise in:
 
 Power BI | SQL | Python | GCP | BigQuery | dbt
 
-LangChain | RAG | AI Agents | Prompt Engineering
+Machine Learning | LangChain | RAG | AI Agents | LLM | Prompt Engineering
 
-Informatica | SSIS | DataStage | Cognos | MicroStrategy
+Informatica | SSIS | DataStage | SQL server | Netezza | Cognos | MicroStrategy
 
 ---
 
