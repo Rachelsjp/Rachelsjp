@@ -75,6 +75,8 @@ AI-powered knowledge assistant using LangChain, FAISS, and OpenAI to enable natu
 
 🏆 AI Product Management – Duke University
 
+🏆 Gen AI Architect- Social eagle.ai
+
 🏆 Professional Scrum Product Owner I
 
 🏆 Microsoft Power BI Data Analyst Associate
@@ -87,6 +89,6 @@ AI-powered knowledge assistant using LangChain, FAISS, and OpenAI to enable natu
 
 ## Connect With Me
 
-LinkedIn: (add your LinkedIn URL)
+LinkedIn:www.linkedin.com/in/rachel-purnima
 
 GitHub: https://github.com/Rachelsjp
