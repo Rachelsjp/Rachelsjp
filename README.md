@@ -12,7 +12,7 @@ Data Analytics • Business Intelligence • Data Engineering • Generative AI 
 
 ## About Me
 
-Data Analytics - Lead / Manager with 18+ years of experience delivering data-driven solutions across Data Analytics, Business Intelligence, Data Warehousing, and Data Engineering.
+Data Analytics - Lead / Manager with 18+ years of experience delivering data-driven solutions across Data Analytics, Business Intelligence, Product Management, Data Warehousing, and Data Engineering.
 
 Currently expanding expertise in:
 
