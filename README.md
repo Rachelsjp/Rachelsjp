@@ -48,14 +48,6 @@ Currently expanding expertise in:
 
 ## Technology Stack
 
-Power BI | SQL | Python | GCP | BigQuery | dbt
-
-Machine Learning | LangChain | RAG | AI Agents | LLM | Prompt Engineering
-
-Informatica | SSIS | DataStage | SQL server | Netezza | Cognos | MicroStrategy
-
-Jira | Confluence | Agile | Scrum | Sprint Planning | Backlog Management | Documentation | Miro | Microsoft Whiteboard
-
 •	BI & Visualization: Power BI, DAX, Semantic Modeling, KPI Development, Dashboard Automation, IBM Cognos, MicroStrategy
 
 •	Cloud & Data Platforms: GCP (BigQuery, Cloud Functions, Cloud Composer, Cloud Storage), dbt
