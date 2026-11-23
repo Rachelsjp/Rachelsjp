@@ -57,16 +57,27 @@ Informatica | SSIS | DataStage | SQL server | Netezza | Cognos | MicroStrategy
 Jira | Confluence | Agile | Scrum | Sprint Planning | Backlog Management | Documentation | Miro | Microsoft Whiteboard
 
 •	BI & Visualization: Power BI, DAX, Semantic Modeling, KPI Development, Dashboard Automation, IBM Cognos, MicroStrategy
+
 •	Cloud & Data Platforms: GCP (BigQuery, Cloud Functions, Cloud Composer, Cloud Storage), dbt
+
 •	Programming & Analytics: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+
 •	RDBMS & Data Modeling: Oracle, MS SQL Server, DB2, Netezza, Data Modeling, Partitioning, Indexing, Query Optimization
+
 •	ETL & Data Engineering: Informatica, SSIS, ETL/ELT, Data Validation, SCD Type 1 & 2, Pipeline Automation, Performance Tuning
+
 •	Machine Learning: Linear Regression, Logistic Regression, KNN, Random Forest, Decision Trees, Naive Bayes, K-Means Clustering, Forecasting, Anomaly Detection
+
 •	Generative AI & Agentic AI: Prompt Engineering, RAG, AI Agents, LangChain, LLM Applications, MCP, AI Solution Design, Foundational Knowledge of Vector Databases, n8n, API Integration
+
 •	AI Tools & Platforms: ChatGPT, Claude, Gemini, Microsoft 365 Copilot, IBM ICA, IBM BOB, Google NotebookLM
+
 •	Project & Delivery Management: Jira, Confluence, Agile, Scrum, Sprint Planning, Backlog Management, Documentation, Miro, Microsoft Whiteboard
+
 •	Data Quality & Testing: HP QC, HP ALM, TOAD, BIConnect, QMetry, UAT, Data Validation, Root Cause Analysis
+
 •	Job Scheduling & Orchestration: Tidal Job Scheduler, Tivoli Job Scheduler, Batch Orchestration, Dependency Management
+
 •	Operating Systems & Productivity Tools: Windows, UNIX, Advanced Excel, MS Project, MS Office, OneNote, Visio
 
 ---
