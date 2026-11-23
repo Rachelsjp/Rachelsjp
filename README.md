@@ -12,13 +12,19 @@ Data Analytics • Business Intelligence • Data Engineering • Generative AI 
 
 ## About Me
 
-Data Analytics - Lead / Manager with 18+ years of experience delivering data-driven solutions across Data Analytics, Business Intelligence, Product Management, Data Warehousing, and Data Engineering.
+Data Analytics Lead / Manager with extensive experience delivering business-driven solutions across Data Analytics, Business Intelligence, Analytics Product Strategy, Data Warehousing, and Data Engineering.
+
+Experienced in translating business requirements into scalable solutions, defining priorities, aligning stakeholders, coordinating cross-functional teams, and driving analytics initiatives from conceptualization through implementation and adoption.
 
 Currently expanding expertise in:
 
 - Generative AI
 - AI Agents
 - AI Product Management
+- Analytics Product Strategy
+- Product Planning & Feature Prioritization
+- Business Requirements & Stakeholder Alignment
+- Agile Delivery & Backlog Management
 - Machine Learning
 - Agentic Workflows
 
